@@ -1,0 +1,4 @@
+word, beginningIndex, endIndex, stride, expected
+algorithm, 1, 8, 2, loih
+
+
